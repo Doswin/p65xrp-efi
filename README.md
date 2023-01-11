@@ -3,4 +3,3 @@
 N156HHE-GA1 120hz
 ax200
 bigsur 11.6
-电量显示还不能用
